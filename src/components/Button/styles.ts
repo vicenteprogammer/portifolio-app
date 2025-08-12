@@ -17,6 +17,14 @@ export const styles = StyleSheet.create({
     textButton:{
         color: 'white',
         fontSize: 20,
-        fontFamily: 'arial'
+        fontFamily: 'arial',
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center'
+    },
+    buttonOrg:{
+        flexDirection: 'row',
+        alignItems: 'center',
+
     }
 })
