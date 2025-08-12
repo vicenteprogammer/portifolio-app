@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pp",
-    "slug": "pp",
+    "name": "portifolio-app",
+    "slug": "portifolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
