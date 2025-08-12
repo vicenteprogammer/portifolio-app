@@ -7,4 +7,18 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  textStyle:{
+    fontSize: 30,
+    color: '#1E90FF',
+    textAlign: 'center',
+    marginBottom: 20,
+    fontWeight: 'bold'
+  },
+  containerSkill:{
+    marginBottom: 30,
+  },
+
+  btn:{
+    marginBottom: 20
+  }
 });
